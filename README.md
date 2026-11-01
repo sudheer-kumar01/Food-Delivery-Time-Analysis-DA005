@@ -11,7 +11,7 @@
 ## 📌 Project Overview
 This Data Analytics project analyzes a real-world food delivery dataset containing **1,000 order records** (`Food_Delivery_Times.csv`) to identify key operational bottlenecks impacting delivery durations. The objective is to analyze how factors like distance, traffic conditions, weather, and preparation time contribute to delays.
 📄 **[Click Here to View Full Project Report (PDF)](ProjecFood_Delivery_Analysis.pdf)**  
-📊 **[Click Here to View Presentation Deck (PPTX)](Food_Delivery_Analysis_DA005_Presentation-v3.pptx)**
+
 
 ---
 
