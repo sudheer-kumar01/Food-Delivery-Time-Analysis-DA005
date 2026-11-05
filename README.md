@@ -70,9 +70,7 @@ The raw dataset contained 30 missing values across multiple feature columns. To 
 
 | Sr. No. | Student Name | Student ID | Roll No. | Role / Responsibility |
 | :---: | :--- | :---: | :---: | :--- |
-| 1 | **SUDHEER KUMAR** | BCAI2026069 | 2610206191 | Technical Head (Complete Python 
-Coding, Data Preprocessing, Imputation, 
-Chart Generation & GitHub Deployment) |
+| 1 | **SUDHEER KUMAR** | BCAI2026069 | 2610206191 | Technical Head(Complete Python Coding, Data Preprocessing, Imputation, Chart Generation GitHub Deployment) |
 | 2 | VYOM SHARMA(T.L) | BCAI2026071 | 2610206218 | Presentation & Documentation |
 | 3 | SUBRAT MISHRA | BCAI2026082 | 2610206190 | Presentation & Visuals |
 | 4 | ASHISH KUMAR | BCAI2026131 | 2610206046 | Presentation & Analysis |
